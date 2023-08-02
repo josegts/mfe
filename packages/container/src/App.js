@@ -4,7 +4,7 @@ import MarketingApp from './components/MarketingApp'
 export const App = () => {
   return (
     <div>
-      <div>App</div>
+      <div>App Container</div>
       <br/>
       <MarketingApp/>
     </div>
