@@ -4,3 +4,4 @@ dist
 
 # node modules from subdirectories
 **/node_modules
+**/dist
